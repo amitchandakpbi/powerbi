@@ -1,0 +1,60 @@
+Covid 19 Data- Download and use 
+https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-daily-data.csv
+
+Sales Data: 
+https://github.com/amitchandakpbi/powerbi/raw/refs/heads/main/Sales%20Data%20Used%20in%20Video.xlsx
+
+Data for Power Query:
+https://github.com/amitchandakpbi/powerbi/raw/refs/heads/main/PivotData.xlsx
+
+Retail Data for Assignment- https://github.com/amitchandakpbi/powerbi/raw/refs/heads/main/For%20Beginner%20Tutorial%20Series%20You%20Tube.xlsx
+
+
+Assignment 1- https://qr.ae/pCGQrU
+
+Assignment 2- https://qr.ae/pCqKel
+
+
+Important Links 
+Complete Power BI in one Video 20 hours(2025):
+https://youtu.be/cyWVzAQF9YU
+
+Complete Power BI in one Video 11 hours(2023):
+https://www.youtube.com/watch?v=cN8AO3_vmlY
+
+Master Power Query in 3 Hours(2025): 
+https://www.youtube.com/watch?v=T_ch_zoQXig
+
+50 Essential Interview Questions & 10 Advanced Use Case Tutorials 2024:
+https://youtu.be/Wfr1Wh5SxwM
+
+Mastering Power BI: 
+https://www.youtube.com/watch?v=wvsAzTqSDVg&list=PLPaNVDMhUXGaaqV92SBD5X2hk3TMNlHhb&index=2
+
+Expertise Power BI: 
+https://www.youtube.com/watch?v=59PUFuuCrbY&list=PLPaNVDMhUXGYo50Ajmr4SgSV9HIQLxc8L
+
+Mastering Microsoft Fabric 50+ Videos: 
+https://www.youtube.com/watch?v=p-v0I5S-ybs&list=PLPaNVDMhUXGYU97pdqwoaociLdwyDRn39&index=1
+
+Mastering Microsoft Fabric in Hindi: 
+https://www.youtube.com/watch?v=6aduOToIwtg&list=PLPaNVDMhUXGbRuO_SWwuLXIBff3lxXqZk
+
+Power BI Interview Questions: https://www.youtube.com/watch?v=vvFGAAbds1k&list=PLPaNVDMhUXGbUzSOKy3A15J5wAgQedQtl
+
+DAX vs SQL: https://www.youtube.com/watch?v=WlvQ_SGy4iA&list=PLPaNVDMhUXGZNyKU0PgG2g3P0c6CPjMnj
+
+Tableau Vs Power BI: 
+https://www.youtube.com/watch?v=tAmg00Wf_cw&list=PLPaNVDMhUXGYzjFASXjdY7GNoFxvlkR54
+
+Power BI Decoding Direct Query: https://www.youtube.com/playlist?list=PLPaNVDMhUXGbKatyDdOhGbTL3xW2Xy6pA
+
+सीखे Power BI हिंदी में:  https://www.youtube.com/playlist?list=PLPaNVDMhUXGbfdGuSsfPR1qKBRT5Ywlki
+
+Concepts of Business Intelligence: https://www.youtube.com/watch?v=bmhGLoT-_a8&list=PLPaNVDMhUXGb16ivjoDbhjX54b8TGRjOF
+
+SQL - https://www.youtube.com/watch?v=ThCZYuYAbnY&list=PLPaNVDMhUXGblXMYDB1P46cBhwPXRVgiD
+
+Tableau - https://www.youtube.com/playlist?list=PLPaNVDMhUXGb5DWmhtg84df9AalKbptis
+
+Tableau- Hindi -https://www.youtube.com/playlist?list=PLPaNVDMhUXGaYGdI0-30-kvR1eqVObHTl
